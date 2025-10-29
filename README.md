@@ -1,15 +1,27 @@
+# 🧠 BIG DATA ANALYTICS ASSIGNMENT
 
- BIG DATA ANALYTICS ASSIGNMENT
- 
- GROUP MEMBERS                                                                                   
- ID NO_   
- 1	 DEMIREWU MANIDEFRO ………………………………..DBU1501123                       
- 2.	LAMROT SOLOMON ……………………………………….DBU1501315                           
- 3. 	MIKIYAS TOLKO …………………………………………..…DBU1501375                                   
- 4.	 NAHOM TESHOME ………………………………………….DBU1500984                           
- 5. 	YONAS ABEBE …………………………………………………..DBU1501655                       
- 6. 	ABAYNEWUABERU …………………………………..……….DBU1501615                       
- 7. 	YONAS HABTAMU ……………………………………………DBU1501578 
+## 👥 Group Members
+
+| No. | Name                     | ID Number     |
+|-----|--------------------------|---------------|
+| 1 | **Demirewu Manidefro** | DBU1501123 |
+| 2 | **Lamrot Solomon** | DBU1501315 |
+| 3 | **Mikiyas Tolko** | DBU1501375 |
+| 4 | **Nahom Teshome** | DBU1500984 |
+| 5 | **Yonas Abebe** | DBU1501655 |
+| 6 | **Abaynewu Aberu** | DBU1501615 |
+| 7 | **Yonas Habtamu** | DBU1501578 |
+
+---
+
+📚 *Submitted as part of the Big Data Analytics course project.*
+
+🗓️ **SUMITTED TO: inst.Derbew:**   
+🏫 **Institution:** Debre Berhan University  
+🎓 **Department:** Datascience
+ ** SUBMISSION DATE:** 29,OCT 2025
+
+---
 
                                                 
                                                                 
