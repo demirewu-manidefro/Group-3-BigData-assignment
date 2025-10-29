@@ -130,11 +130,4 @@ The final system forms a foundation for **data-driven decision-making** and can 
 | File Format | Parquet |
 | Version Control | Git, GitHub |
 
----
 
-##  10. How to Run the Project
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/nyc-yellow-taxi-etl.git
-cd nyc-yellow-taxi-etl
